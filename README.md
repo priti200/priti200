@@ -1,5 +1,11 @@
-# 💫 About Me:
-🔭 I’m currently working on Fundraising Website using ReactJS and Django<br>👯 I’m a passionate and consisten frontend developer<br>🤝 I’m looking for help with Open Source Contribution to contribute <br>🌱 I’m currently learning DSA in Java , Fluttet , Firebase , ReactJS<br>💬 Ask me about python , C++ , Html , Css , Git , Github <br>⚡ Fun fact I am a funloving girl who loves making people around her laugh , crazy dance lover....etc
+<h1 align="center">Hi 👋, I'm Priti Gupta</h1>
+<h3 align="center">A passionate and consistent frontend developer from Nepal</h3>
+
+## 💫 About Me:
+🔭 I’m currently working on [fundraising Website](https://github.com/priti200/AASHA) using ReactJS and Django<br>👯 I’m a passionate and consisten frontend developer<br>🤝 I’m looking for help with Open Source Contribution to contribute <br>🌱 I’m currently learning DSA in Java , Fluttet , Firebase , ReactJS<br>💬 Ask me about python , C++ , Html , Css , Git , Github <br>⚡ Fun fact I am a funloving girl who loves making people around her laugh , crazy dance lover....etc
+<br>
+📫 How to reach me **pg629343@gmail.com**
+<br>
 <img align="center" alt="coding" width=400 src="https://user-images.githubusercontent.com/117377405/233771986-d5851088-4eb4-4043-99bb-7c504fa8ec55.png">
 
 
@@ -20,7 +26,8 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=priti200&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=priti200&limit=5&theme=dark&combine_all_yearly_contributions=true)<br>
+👨‍💻 All of my projects are available at [https://github.com/priti200?tab=repositories](https://github.com/priti200?tab=repositories)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=priti200&icon=0&color=0)](https://visitcount.itsvg.in)
