@@ -2,7 +2,7 @@
 <h3 align="center">A passionate and consistent frontend developer from Nepal</h3>
 
 ## 💫 About Me:
-🔭 I’m currently working on [fundraising Website](https://github.com/priti200/AASHA) using ReactJS and Django<br>👯 I’m a passionate and consisten frontend developer<br>🤝 I’m looking for help with Open Source Contribution to contribute <br>🌱 I’m currently learning DSA in Java , Fluttet , Firebase , ReactJS<br>💬 Ask me about python , C++ , Html , Css , Git , Github <br>⚡ Fun fact I am a funloving girl who loves making people around her laugh , crazy dance lover....etc
+🔭 I’m currently working on [fundraising Website](https://github.com/priti200/AASHA) using ReactJS and Django<br>👯 I'm a Web-Dev Enthusiast who is currently in making <br>🤝 I’m looking for help with Open Source Contribution to contribute <br>🌱 I’m currently learning DSA in Java , Fluttet , Firebase , ReactJS<br>💬 Ask me about python , C++ , Html , Css , Git , Github <br>⚡ Fun fact I am a funloving girl who loves making people around her laugh , crazy dance lover....etc
 <br>
 📫 How to reach me **pg629343@gmail.com**
 <br>
