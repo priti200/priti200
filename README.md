@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Priti Gupta</h1>
 <h3 align="center">A passionate and consistent frontend developer from Nepal</h3>
-
+&nbsp;
 <img align="center" alt="coding" width=400 src="https://user-images.githubusercontent.com/117377405/233771986-d5851088-4eb4-4043-99bb-7c504fa8ec55.png">
 
 
