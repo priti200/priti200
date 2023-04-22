@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priti Gupta</h1>
 <h3 align="center">A passionate and consistent frontend developer from Nepal</h3>
 
-<img align="center" alt="coding" width=400 src="https://user-images.githubusercontent.com/117377405/233771986-d5851088-4eb4-4043-99bb-7c504fa8ec55.png">
+<img align="right" alt="coding" width=300 src="https://user-images.githubusercontent.com/117377405/233771986-d5851088-4eb4-4043-99bb-7c504fa8ec55.png">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priti200&label=Profile%20views&color=0e75b6&style=flat" alt="priti200" /> </p>
