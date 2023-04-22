@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **pg629343@gmail.com**
 
-- ⚡ Fun fact **I am a fun-loving person who loves to make people laugh around her, a crazy dance lover and a bike lover .**
+\- ⚡ Fun fact **I am a fun-loving person who loves to make people laugh around her, a crazy dance lover, bike lover, playing badminton, travelling...etc**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
