@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priti Gupta</h1>
-<h3 align="center">A passionate and consistent frontend developer from Nepal</h3>
+<h3 align="center">A passionate and consistent student developer from Nepal</h3>
 
 ## 💫 About Me:
 🔭 I’m currently working on [Personal Portfolio Website](https://github.com/priti200/protfolio) using Html, Css and JS <br>👯 I'm interested in Web development, Mobile development <br>🌱 I’m currently learning DSA in Java , Fluttet , Firebase , ReactJS<br>💬 Ask me about python , C++ , Html , Css , Git , Github <br>⚡ Fun fact I love making other people laugh around me, crazy dance lover....etc
