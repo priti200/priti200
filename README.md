@@ -4,7 +4,7 @@
 ## 💫 About Me:
 🔭 I’m currently working on [Personal Portfolio Website](https://github.com/priti200/protfolio) using Html, Css and JS <br>👯 I'm interested in Web development, Mobile development <br>🌱 I’m currently learning DSA in Java , Fluttet , Firebase , ReactJS<br>💬 Ask me about python , C++ , Html , Css , Git , Github <br>⚡ Fun fact I love making other people laugh around me, crazy dance lover....etc
 <br>
-📫 How to reach me **pg629343@gmail.com**
+📫 How to reach me **geekpritigupta@gmail.com**
 <br>
 <img align="center" alt="coding" width=400 src="https://user-images.githubusercontent.com/117377405/233771986-d5851088-4eb4-4043-99bb-7c504fa8ec55.png">
 
