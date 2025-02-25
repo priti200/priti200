@@ -2,7 +2,7 @@
 <h3 align="center">A passionate and consistent Software developer</h3>
 
 ## 💫 About Me:
-🔭 I’m currently working on building responsive Smart-Agriculture mobile applications.<br>
+🔭 I’m currently working on building responsive Smart-Agriculture mobile application.<br>
 👯 I'm interested in Web development, Mobile development, and Data Science.<br>
 🌱 I’m currently learning DSA in C++.<br>
 💬 Ask me about Python, C++, Java, HTML, CSS, Git, and GitHub.<br>
